@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="gmailGroup.gmailArtifact.AppTest" duration-ms="67412" started-at="2018-09-15T17:13:14Z" finished-at="2018-09-15T17:14:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="67412" started-at="2018-09-15T17:13:14Z" finished-at="2018-09-15T17:14:21Z">
+      <class name="gmailGroup.gmailArtifact.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gmailGroup.gmailArtifact.AppTest@1554909b]" name="setUp" is-config="true" duration-ms="4113" started-at="2018-09-15T22:43:14Z" finished-at="2018-09-15T22:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSendEmail()[pri:0, instance:gmailGroup.gmailArtifact.AppTest@1554909b]" name="testSendEmail" duration-ms="62365" started-at="2018-09-15T22:43:18Z" finished-at="2018-09-15T22:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gmailGroup.gmailArtifact.AppTest@1554909b]" name="tearDown" is-config="true" duration-ms="920" started-at="2018-09-15T22:44:20Z" finished-at="2018-09-15T22:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gmailGroup.gmailArtifact.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- gmailGroup.gmailArtifact.AppTest -->
+</testng-results>
