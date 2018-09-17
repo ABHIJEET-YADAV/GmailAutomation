@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Gmail Test Automation Suite]">
+  <test name="Gmail Test(failed)">
+    <classes>
+      <class name="gmailGroup.gmailArtifact.AppTest">
+        <methods>
+          <include name="testSendEmail"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- gmailGroup.gmailArtifact.AppTest -->
+    </classes>
+  </test> <!-- Gmail Test(failed) -->
+</suite> <!-- Failed suite [Gmail Test Automation Suite] -->
